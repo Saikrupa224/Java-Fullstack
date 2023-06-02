@@ -6,9 +6,9 @@ public class ChildclassRuntimePolymorphism extends ParentclassRuntimePolymorphis
     }
     public static void main(String[] args){
         ParentclassRuntimePolymorphism abc = new ParentclassRuntimePolymorphism();
-        int x = abc.addition(5,10);
+        int x = abc.addition(6,11);
         ChildclassRuntimePolymorphism abc1 = new ChildclassRuntimePolymorphism();
-        int y = abc1.addition(6,6);
+        int y = abc1.addition(5,6);
         System.out.println(x + " " +y);
     }
 }
