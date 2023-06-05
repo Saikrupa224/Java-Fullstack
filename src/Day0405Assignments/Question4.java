@@ -1,6 +1,6 @@
 package Day0405Assignments;
 
-public class Question4 {
+class Question4 {
     public final  int variable1 =20;
     final void finalmethod(){
         System.out.println("This is the final method");
