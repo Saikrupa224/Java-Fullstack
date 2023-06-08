@@ -7,8 +7,10 @@ public class Anagram {
             Scanner input = new Scanner(System.in);
             System.out.print("Enter first String: ");
             String s1 = input.nextLine();
+            s1 = s1.toLowerCase();
             System.out.print("Enter second String: ");
             String s2 = input.nextLine();
+            s2 = s2.toLowerCase();
 
             if(s1.length() == s2.length()) {
 
