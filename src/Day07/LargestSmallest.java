@@ -1,4 +1,4 @@
-package Day07Assignment;
+package Day07;
 
 public class LargestSmallest {
     public static void main(String[]args){

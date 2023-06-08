@@ -1,4 +1,4 @@
-package Day0405Assignments;
+package Day0405;
 
 public class Question3 {
     public static void main(String[] args)

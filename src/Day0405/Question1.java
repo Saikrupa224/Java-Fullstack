@@ -1,4 +1,4 @@
-package Day0405Assignments;
+package Day0405;
 // First Interface
 interface A {
     void M1();

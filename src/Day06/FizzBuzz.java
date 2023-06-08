@@ -1,4 +1,4 @@
-package Day06Assignment;
+package Day06;
 
 public class FizzBuzz {
     public static void main(String[]args){

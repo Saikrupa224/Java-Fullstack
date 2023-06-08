@@ -1,4 +1,4 @@
-package Day07Assignment;
+package Day07;
 import java.util.Arrays;
 public class reversearray {
     public static void main(String[]args){

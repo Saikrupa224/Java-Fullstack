@@ -1,4 +1,4 @@
-package Day0405Assignments;
+package Day0405;
 class class1 {
     protected int Var1;
     public class1(int variable1){

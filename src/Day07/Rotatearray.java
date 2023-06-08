@@ -1,11 +1,11 @@
-package Day07Assignment;
+package Day07;
 
 import java.util.Arrays;
 
 public class Rotatearray {
     public static void main(String[]args){
         int[] array1 = {1,2,3,4,5,6};
-        int x = 2;
+        int x =2;
         System.out.println("Original array:"+ Arrays.toString(array1));
         rotatearray(array1,x);
         System.out.println("Rotated array:"+Arrays.toString(array1));

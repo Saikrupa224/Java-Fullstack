@@ -1,4 +1,4 @@
-package Day06Assignment;
+package Day06;
 
 public class Age {
     public void age(int age) {

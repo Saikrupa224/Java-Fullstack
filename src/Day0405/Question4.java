@@ -1,4 +1,4 @@
-package Day0405Assignments;
+package Day0405;
 
 class Question4 {
     public final  int variable1 =20;
