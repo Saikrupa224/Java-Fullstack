@@ -20,7 +20,7 @@ class test {
     }
 
     private static int initializeStaticVariable() {
-        return 42;
+        return 46;
     }
 }
 
