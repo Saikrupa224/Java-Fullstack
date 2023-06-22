@@ -8,7 +8,7 @@ public class distinctchar {
 
 
         for (char ch : input.toCharArray()) {
-
+            if(!Character.isWhitespace(ch))
             frequencyMap.put(ch, frequencyMap.getOrDefault(ch, 0) + 1);
         }
 
